@@ -20,7 +20,7 @@ Además, se han hecho algunas correcciones o cambios a ciertos términos emplead
 1. Tener instalado _Steins;Gate 0_ desde Steam.
 2. Tener instalado el parche en inglés de Committee of Zero para este juego, el cual puedes conseguir aquí: https://github.com/CommitteeOfZero/zero-patch/releases. Para hacerlo, debes descargar el zip de la versión más reciente, extraer sus archivos en la carpeta que quieras (excepto la del juego), abrir la carpeta extraída, ejecutar el instalador `SG0Patch-Installer.exe` y continuar desde ahí la instalación. Ya que haya terminado la instalación, puedes borrar el zip y la carpeta que habías extraído.
 
-Para poder aplicar el parche en español, sigue estos pasos:
+### Aplicación del parche español
 1. Descargar el parche en español desde [aquí](https://github.com/delta3pc/sg0-parche-ESP/releases) (`SG0-STEAM-ESP.zip`).
 2. Abrir la carpeta en la que se encuentra instalado el juego en tu computadora. Por defecto, suele ser `C:\Program Files (x86)\Steam\steamapps\common\STEINS;GATE 0`.
 3. Desde esta carpeta, abrir la carpeta llamada `languagebarrier`.
